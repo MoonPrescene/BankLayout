@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chip1"> this is chip 1 </string>
+    <string name="money">$2,589.50</string>
+    <string name="status">Available Balance</string>
+    <string name="recent"><b>Recent Transactions</b></string>
+    <string name="btn_content"><i>See all</i></string>
+    <string name="chip4">All</string>
+    <string name="chip9">Income</string>
+    <string name="chip10">Expense</string>
+    <string name="today"><b>TODAY</b></string>
+    <string name="txt1">Send</string>
+    <string name="txt2">Request</string>
+    <string name="txt3">Loan</string>
+    <string name="txt4">Topup</string>
+    <string name="text_view1"><b>Grocery</b></string>
+    <string name="text_view2">Eataly downtown</string>
+    <string name="text_view3"><b>- $50.68</b></string>
+    <string name="text_view4">Aug 26</string>
+    <string name="text_view5"><b>Transport</b></string>
+    <string name="text_view6">UBER Pool</string>
+    <string name="text_view7"><b>- $6.00</b></string>
+    <string name="text_view8">Aug 26</string>
+    <string name="yesterday"><b>YESTERDAY</b></string>
+    <string name="text_view9"><b>Payment</b></string>
+    <string name="text_view10">Payment from <b>Andre</b></string>
+    <string name="text_view11"><b>+ $650.00</b></string>
+    <string name="text_view12">Aug 25</string>
+    <string name="view1_content">food</string>
+    <string name="view2_content">car</string>
+    <string name="view3_content">pay</string>
+</resources>
